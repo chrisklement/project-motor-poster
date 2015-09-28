@@ -51,12 +51,12 @@ Equally challenging was the programing of the code. For example, although the fa
 These are some pictures of the process:
 
 ![](images/process_01.jpg)
+![](images/process_02.jpg)
 
 ## Final result
 
 ### Wie der Zufall so will
-
-**„As chance will have it“. (German saying)**
+**As chance would have it**
 
 The quote "To play is to experiment with chance" by Georg Philipp Friedrich von Hardenberg (1772-1801), reflects not only the basic principle of the game but also my approach to the project and the final result.
 
@@ -65,7 +65,7 @@ The quote "To play is to experiment with chance" by Georg Philipp Friedrich von 
 
 ---
 
-### [Visit Vimeo to see final video!](https://vimeo.com/???)
+### [Visit Vimeo to see final video!](https://vimeo.com/140699908)
 
 ---
 
