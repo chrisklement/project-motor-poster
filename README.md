@@ -65,7 +65,7 @@ The quote "To play is to experiment with chance" by Georg Philipp Friedrich von 
 
 ---
 
-### [Visit Vimeo to see final video!](https://vimeo.com/140699908)
+### [Visit Vimeo to see the final video!](https://vimeo.com/140699908)
 
 ---
 
