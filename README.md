@@ -1,14 +1,14 @@
 # Project Motor Poster
 
-***The project started with a 2-day workshop in the field of physical computing. There I got a deeper insight about the scope of physical computing, which were illustrated with realized projects. Then I tried my first Circuits and first lines of code with the Arduino Uno.***
+***The project started with a 2-day workshop in the field of physical computing. There I got a deeper insight to the scope of physical computing, which were illustrated with realized projects. Then I tried my first Circuits and first lines of code with the Arduino Uno.***
 
 ## Exercise
 
 The task of the project was to create a motorized Poster or object. It was possible that only the pure passive presence of the observer serves as input and thus triggers the output.
 
-## The idea
+## The Idea
 
-In a relatively short time I decided upon a project idea in order to have enough time for the implementation, because I could not estimate the complexity of such a project then.
+In a relatively short time I decided upon a project idea in order to have enough time for the implementation, because I could not estimate the complexity of such a project back then.
 
 I decided to create a game in which the viewer passively triggers the game and has a 50:50 chance of winning. Two sliders, with two different icons move back and forth for a short moment. Then they stop randomly and it is checked whether a match exists or not. A third slider shows the result.
 Subsequently, the project idea should be put in a simple video-prototype.
@@ -22,7 +22,7 @@ pw: prototype
 
 Quickly I began to think about what kind of components I needed, in order to realize the project. Right from the beginning, it was important to me that the mechanism is functioning properly and that I create an object that is actually looking good.
 
-Due to my personal relation with music studio technology, I quickly came up with the idea to use motorized faders, which are used in studio consoles. To describe the function of a fader in more detail, you have to imagine that it is basically a potentiometer and a DC motor in one. Thus, with the potentiometer you get the possibility to determine exactly where the position of the fader is. Therefore, I was able to define the positions the faders should move to and at the same time, I could determine the speed. However, dc-motors can just rotate in one direction, so I had to use an H-Bridge, which controls the flow of electricity.
+Due to my personal relation with music studio technology, I quickly came up with the idea to use motorized faders, which are used in studio consoles. To describe the function of a fader in more detail, you have to imagine that it is basically a potentiometer and a DC-Motor in one. Thus, with the potentiometer you get the possibility to determine exactly where the position of the fader is. Therefore, I was able to define the positions the faders should move to and at the same time, I could determine the speed. However, DC-Motors can just rotate in one direction, so I had to use an H-Bridge which controls the flow of electricity.
 
 ![](images/fader_hbridge.jpg)
 
